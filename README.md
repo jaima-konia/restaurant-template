@@ -7,7 +7,7 @@ Modern responsive restaurant website template built with HTML &amp; CSS.
 - Easy customization
 
 ## 🚀 Live Demo
-[(Add your Netlify link here)](https://restaurantbyjkonia.netlify.app/)
+(https://restaurantbyjkonia.netlify.app/)
 
 ## 🛠 Technologies
 - HTML
