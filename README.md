@@ -16,3 +16,8 @@ Modern responsive restaurant website template built with HTML &amp; CSS.
 
 Preview
 ![image alt](https://github.com/jaima-konia/restaurant-template/blob/cf9c8044126bafbeb3e8f134628f4f21dc2f4939/cover.png)
+
+
+📩 Template
+Available on Gumroad
+[Template Link](https://jkonia.gumroad.com/l/ModernRestaurantWebsiteTemplate)
